@@ -1,21 +1,21 @@
 # Chat-Visualizer
 A C++ graphics project that turns data into clear and colourful visual charts, featuring 10 unique chart types.
 # Charts Implemented
-Bar Chart
-Pie Chart
-Line Chart
-Donut Chart
-Scatter Plot
-Area Chart
-Column Chart
-Histogram
-Stacked Bar Chart
-Multi-Line Chart
+ * Bar Chart
+ * Pie Chart
+ * Line Char
+ * Donut Chart
+ * Scatter Plot
+ * Area Chart
+ * Column Chart
+ * Histogram
+ * Stacked Bar Chart
+ * Multi-Line Chart
 # Technologies Used
-C++
-graphics.h 
-Turbo C++ / WinBGIm
-Dev C++ 
+* C++
+* graphics.h 
+* Turbo C++ / WinBGIm
+* Dev C++ 
 # How to Run
 1. Clone the repository
 2. Compile the source code
